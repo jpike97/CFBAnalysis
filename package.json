@@ -1,0 +1,15 @@
+{
+  "name": "cfbanalysis",
+  "version": "1.0.0",
+  "description": "bets!",
+  "main": "analysis.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cfb.js": "^4.1.14",
+    "fs": "0.0.1-security"
+  }
+}

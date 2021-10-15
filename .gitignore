@@ -1,0 +1,4 @@
+
+node_modules/mime-db/db.json
+node_modules/*
+config.js
