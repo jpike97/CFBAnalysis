@@ -1,0 +1,885 @@
+[
+    {
+        "EmptyCol": "",
+        "Favorite": "FBS vs FBS",
+        "Underdog": "Week 8",
+        "spread": "",
+        "O/U": "",
+        "null": [
+            "",
+            "FCS vs FCS",
+            "Week 8",
+            "",
+            ""
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "Favorite",
+        "Underdog": "Underdog",
+        "spread": "spread",
+        "O/U": "O/U",
+        "null": [
+            "",
+            "Favorite",
+            "Underdog",
+            "spread",
+            "O/U"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "@ Air Force ",
+        "Underdog": "San Diego St",
+        "spread": "6.34",
+        "O/U": "43.5",
+        "null": [
+            "",
+            "@ Albany",
+            "Maine",
+            "8.63",
+            "46.6"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "@ Alabama ",
+        "Underdog": "Tennessee ",
+        "spread": "16.20",
+        "O/U": "61.3",
+        "null": [
+            "",
+            "Alcorn State",
+            "@ Texas Southern",
+            "0.84",
+            "55.7"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "@ Ball St",
+        "Underdog": "Miami-OH",
+        "spread": "7.14",
+        "O/U": "51.6",
+        "null": [
+            "",
+            "Bryant",
+            "@ Wagner ",
+            "17.24",
+            "42.4"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "@ Bowling Green",
+        "Underdog": "Eastern Michigan ",
+        "spread": "0.61",
+        "O/U": "50.1",
+        "null": [
+            "",
+            "Central Arkansas",
+            "@ Lamar",
+            "21.38",
+            "55.6"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "Brigham Young ",
+        "Underdog": "@ Washington St",
+        "spread": "4.34",
+        "O/U": "54.0",
+        "null": [
+            "",
+            "@ Central Connecticut",
+            "Long Island",
+            "10.11",
+            "48.3"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "Buffalo ",
+        "Underdog": "@ Akron",
+        "spread": "5.26",
+        "O/U": "59.0",
+        "null": [
+            "",
+            "Charleston Southern",
+            "@ North Alabama",
+            "8.81",
+            "53.8"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "@ California ",
+        "Underdog": "Colorado",
+        "spread": "14.09",
+        "O/U": "45.7",
+        "null": [
+            "",
+            "Chattanooga",
+            "@ Samford ",
+            "11.48",
+            "61.8"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "@ Central Michigan ",
+        "Underdog": "Northern Illinois ",
+        "spread": "3.04",
+        "O/U": "58.2",
+        "null": [
+            "",
+            "@ Cornell ",
+            "Brown",
+            "9.39",
+            "55.8"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "Cincinnati ",
+        "Underdog": "@ Navy ",
+        "spread": "40.65",
+        "O/U": "48.4",
+        "null": [
+            "",
+            "@ Dartmouth ",
+            "Columbia",
+            "22.89",
+            "41.9"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "Coastal Carolina",
+        "Underdog": "@ Appalachian St",
+        "spread": "16.95",
+        "O/U": "59.0",
+        "null": [
+            "",
+            "Davidson",
+            "@ Butler ",
+            "20.02",
+            "55.6"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "Colorado St",
+        "Underdog": "@ Utah St",
+        "spread": "4.47",
+        "O/U": "53.8",
+        "null": [
+            "",
+            "@ Drake ",
+            "Stetson",
+            "11.41",
+            "39.9"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "Florida Atlantic ",
+        "Underdog": "@ Charlotte",
+        "spread": "15.82",
+        "O/U": "55.1",
+        "null": [
+            "",
+            "Duquesne",
+            "@ Sacred Heart ",
+            "6.38",
+            "42.0"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "@ Florida St",
+        "Underdog": "Massachusetts",
+        "spread": "36.17",
+        "O/U": "57.3",
+        "null": [
+            "",
+            "East Tennessee St",
+            "@ Furman ",
+            "7.78",
+            "45.7"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "@ Fresno St",
+        "Underdog": "Nevada ",
+        "spread": "8.02",
+        "O/U": "59.3",
+        "null": [
+            "",
+            "@ Eastern Wash ",
+            "Weber St",
+            "20.39",
+            "61.8"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "@ Georgia St",
+        "Underdog": "Texas St",
+        "spread": "12.41",
+        "O/U": "61.9",
+        "null": [
+            "",
+            "Florida A&M",
+            "@ Mississippi Valley",
+            "28.72",
+            "42.5"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "@ Hawai'i ",
+        "Underdog": "New Mexico St",
+        "spread": "26.54",
+        "O/U": "61.5",
+        "null": [
+            "",
+            "@ Fordham ",
+            "Lehigh",
+            "52.20",
+            ""
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "@ Houston ",
+        "Underdog": "East Carolina ",
+        "spread": "14.40",
+        "O/U": "58.2",
+        "null": [
+            "",
+            "@ Gardner-Webb ",
+            "Robert Morris",
+            "11.93",
+            "52.7"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "@ Iowa St",
+        "Underdog": "Oklahoma St",
+        "spread": "17.28",
+        "O/U": "47.6",
+        "null": [
+            "",
+            "Georgetown",
+            "@ Bucknell ",
+            "6.24",
+            "40.0"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "Kansas St",
+        "Underdog": "@ Texas Tech ",
+        "spread": "6.66",
+        "O/U": "60.2",
+        "null": [
+            "",
+            "Harvard",
+            "@ Princeton ",
+            "1.07",
+            "47.0"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "Liberty",
+        "Underdog": "@ North Texas ",
+        "spread": "27.50",
+        "O/U": "57.5",
+        "null": [
+            "",
+            "@ Holy Cross",
+            "Colgate",
+            "31.53",
+            "43.3"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "Louisiana",
+        "Underdog": "@ Arkansas St",
+        "spread": "30.56",
+        "O/U": "67.5",
+        "null": [
+            "",
+            "@ Howard ",
+            "Norfolk State",
+            "1.03",
+            "56.2"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "@ Louisville ",
+        "Underdog": "Boston College ",
+        "spread": "18.03",
+        "O/U": "59.3",
+        "null": [
+            "",
+            "Incarnate Word",
+            "@ McNeese ",
+            "12.83",
+            "62.9"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "Memphis ",
+        "Underdog": "@ U C F",
+        "spread": "0.35",
+        "O/U": "69.4",
+        "null": [
+            "",
+            "@ Jackson St",
+            "Bethune-Cookman",
+            "32.46",
+            "50.3"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "@ Miami-FL",
+        "Underdog": "North Carolina St",
+        "spread": "1.38",
+        "O/U": "55.9",
+        "null": [
+            "",
+            "James Madison",
+            "@ Delaware ",
+            "22.59",
+            "44.2"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "@ Michigan ",
+        "Underdog": "Northwestern ",
+        "spread": "29.75",
+        "O/U": "49.5",
+        "null": [
+            "",
+            "Kennesaw St",
+            "@ Campbell ",
+            "2.31",
+            "52.8"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "Middle Tennessee ",
+        "Underdog": "@ Connecticut",
+        "spread": "10.27",
+        "O/U": "54.6",
+        "null": [
+            "",
+            "@ Marist ",
+            "Morehead St",
+            "1.87",
+            "57.5"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "@ Minnesota ",
+        "Underdog": "Maryland ",
+        "spread": "16.39",
+        "O/U": "53.4",
+        "null": [
+            "",
+            "@ Mercer",
+            "Wofford",
+            "3.54",
+            "53.3"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "@ Mississippi",
+        "Underdog": "L S U ",
+        "spread": "8.84",
+        "O/U": "72.1",
+        "null": [
+            "",
+            "Montana",
+            "@ Idaho ",
+            "12.00",
+            "56.3"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "Mississippi St",
+        "Underdog": "@ Vanderbilt ",
+        "spread": "14.96",
+        "O/U": "51.0",
+        "null": [
+            "",
+            "@ Montana St",
+            "Idaho St",
+            "28.27",
+            "50.4"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "@ Notre Dame ",
+        "Underdog": "U S C ",
+        "spread": "8.05",
+        "O/U": "56.9",
+        "null": [
+            "",
+            "@ Murray St",
+            "Austin Peay",
+            "4.27",
+            "52.7"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "@ Ohio ",
+        "Underdog": "Kent St",
+        "spread": "1.98",
+        "O/U": "62.8",
+        "null": [
+            "",
+            "NC Central",
+            "@ Morgan St",
+            "8.95",
+            "41.7"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "Ohio St",
+        "Underdog": "@ Indiana ",
+        "spread": "23.30",
+        "O/U": "59.2",
+        "null": [
+            "",
+            "New Hampshire",
+            "@ Elon ",
+            "2.55",
+            "48.4"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "Oklahoma ",
+        "Underdog": "@ Kansas ",
+        "spread": "35.70",
+        "O/U": "64.2",
+        "null": [
+            "",
+            "Nicholls",
+            "@ Houston Baptist",
+            "26.86",
+            "65.8"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "Oregon ",
+        "Underdog": "@ U C L A ",
+        "spread": "1.21",
+        "O/U": "59.4",
+        "null": [
+            "",
+            "North Carolina A&T",
+            "@ Hampton ",
+            "14.71",
+            "57.4"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "@ Penn St",
+        "Underdog": "Illinois ",
+        "spread": "35.51",
+        "O/U": "46.3",
+        "null": [
+            "",
+            "@ North Dakota ",
+            "Western Illinois",
+            "10.45",
+            "56.3"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "@ Pittsburgh ",
+        "Underdog": "Clemson ",
+        "spread": "17.38",
+        "O/U": "50.7",
+        "null": [
+            "",
+            "@ North Dakota St",
+            "Missouri St",
+            "16.71",
+            "44.6"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "@ Purdue ",
+        "Underdog": "Wisconsin ",
+        "spread": "2.12",
+        "O/U": "39.4",
+        "null": [
+            "",
+            "Prairie View",
+            "@ Southern U ",
+            "1.33",
+            "53.0"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "@ S M U ",
+        "Underdog": "Tulane ",
+        "spread": "18.72",
+        "O/U": "69.7",
+        "null": [
+            "",
+            "@ Sacramento St",
+            "Northern Arizona",
+            "6.20",
+            "56.2"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "South Alabama",
+        "Underdog": "@ U L M",
+        "spread": "8.71",
+        "O/U": "49.2",
+        "null": [
+            "",
+            "@ Sam Houston ",
+            "Jacksonville St",
+            "19.09",
+            "51.8"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "@ South Florida ",
+        "Underdog": "Temple ",
+        "spread": "2.73",
+        "O/U": "55.9",
+        "null": [
+            "",
+            "San Diego",
+            "@ Presbyterian",
+            "15.68",
+            "65.1"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "Syracuse",
+        "Underdog": "@ Virginia Tech ",
+        "spread": "6.63",
+        "O/U": "47.3",
+        "null": [
+            "",
+            "SE Louisiana",
+            "@ Northwestern St",
+            "23.19",
+            "67.8"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "@ T C U ",
+        "Underdog": "West Virginia ",
+        "spread": "7.02",
+        "O/U": "59.2",
+        "null": [
+            "",
+            "South Carolina St",
+            "@ Delaware St",
+            "17.01",
+            "48.3"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "@ Texas A&M ",
+        "Underdog": "South Carolina ",
+        "spread": "13.99",
+        "O/U": "45.4",
+        "null": [
+            "",
+            "@ South Dakota ",
+            "Illinois St",
+            "22.07",
+            "41.4"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "@ Toledo ",
+        "Underdog": "Western Michigan ",
+        "spread": "3.49",
+        "O/U": "53.8",
+        "null": [
+            "",
+            "@ South Dakota St",
+            "Northern Iowa",
+            "9.12",
+            "47.9"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "@ U A B",
+        "Underdog": "Rice ",
+        "spread": "36.20",
+        "O/U": "46.5",
+        "null": [
+            "",
+            "@ Southern Utah ",
+            "Northern Colorado",
+            "2.58",
+            "53.4"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "@ U N L V ",
+        "Underdog": "San Jose St",
+        "spread": "3.62",
+        "O/U": "48.1",
+        "null": [
+            "",
+            "Stephen F Austin",
+            "@ Dixie St",
+            "19.46",
+            "53.5"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "U T S A",
+        "Underdog": "@ Louisiana Tech ",
+        "spread": "10.16",
+        "O/U": "58.6",
+        "null": [
+            "",
+            "@ Stony Brook ",
+            "Richmond",
+            "6.91",
+            "39.8"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "Utah ",
+        "Underdog": "@ Oregon St",
+        "spread": "7.50",
+        "O/U": "56.4",
+        "null": [
+            "",
+            "Tennessee St",
+            "@ Eastern Illinois ",
+            "0.37",
+            "41.7"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "@ Virginia ",
+        "Underdog": "Georgia Tech ",
+        "spread": "5.84",
+        "O/U": "62.1",
+        "null": [
+            "",
+            "@ The Citadel ",
+            "Western Carolina",
+            "14.02",
+            "60.1"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "Wake Forest ",
+        "Underdog": "@ Army ",
+        "spread": "2.64",
+        "O/U": "54.2",
+        "null": [
+            "",
+            "UC-Davis",
+            "@ Cal Poly ",
+            "15.14",
+            "56.3"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "Washington ",
+        "Underdog": "@ Arizona ",
+        "spread": "17.15",
+        "O/U": "47.1",
+        "null": [
+            "",
+            "@ UT-Martin ",
+            "SE Missouri St",
+            "15.63",
+            "56.7"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "Western Kentucky ",
+        "Underdog": "@ Florida Int'l ",
+        "spread": "25.52",
+        "O/U": "68.1",
+        "null": [
+            "",
+            "@ Valparaiso ",
+            "Dayton",
+            "2.61",
+            "51.6"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "@ Wyoming ",
+        "Underdog": "New Mexico ",
+        "spread": "27.69",
+        "O/U": "43.8",
+        "null": [
+            "",
+            "@ Villanova",
+            "Rhode Island",
+            "19.26",
+            "47.6"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "",
+        "Underdog": "",
+        "spread": "",
+        "O/U": "",
+        "null": [
+            "",
+            "@ William & Mary",
+            "Towson",
+            "0.57",
+            "41.6"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "",
+        "Underdog": "",
+        "spread": "",
+        "O/U": "",
+        "null": [
+            "",
+            "@ Yale ",
+            "Pennsylvania",
+            "18.58",
+            "38.3"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "",
+        "Underdog": "",
+        "spread": "",
+        "O/U": "",
+        "null": [
+            "",
+            "Youngstown St",
+            "@ Indiana St",
+            "3.75",
+            "49.1"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "",
+        "Underdog": "",
+        "spread": "",
+        "O/U": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "FBS vs FCS",
+        "Underdog": "Week 8",
+        "spread": "",
+        "O/U": "",
+        "null": [
+            "",
+            "FCS vs Non D-I",
+            "Week 8",
+            "",
+            ""
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "Favorite",
+        "Underdog": "Underdog",
+        "spread": "spread",
+        "O/U": "O/U",
+        "null": [
+            "",
+            "Favorite",
+            "Underdog",
+            "spread",
+            "O/U"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "Arkansas ",
+        "Underdog": "Arkansas-Pine Bluff",
+        "spread": "55.09",
+        "O/U": "56.3",
+        "null": [
+            "",
+            "@ Tarleton St",
+            "Midwestern St",
+            "1.81",
+            "56.4"
+        ]
+    },
+    {
+        "EmptyCol": "",
+        "Favorite": "",
+        "Underdog": "",
+        "spread": "",
+        "O/U": "",
+        "null": [
+            "",
+            "@ Tennessee Tech ",
+            "VU-Lynchburg",
+            "56.03",
+            ""
+        ]
+    },
+    {}
+]

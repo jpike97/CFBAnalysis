@@ -1,0 +1,1269 @@
+[
+    {
+        "id": 401309569,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Central Michigan",
+        "homeConference": "Mid-American",
+        "homeScore": null,
+        "awayTeam": "Toledo",
+        "awayConference": "Mid-American",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "5.5",
+                "formattedSpread": "Toledo -5.5",
+                "spreadOpen": "6.0",
+                "overUnder": "52.0",
+                "overUnderOpen": "51.5",
+                "homeMoneyline": 170,
+                "awayMoneyline": -200
+            }
+        ]
+    },
+    {
+        "id": 401309570,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Northern Illinois",
+        "homeConference": "Mid-American",
+        "homeScore": null,
+        "awayTeam": "Bowling Green",
+        "awayConference": "Mid-American",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "-9.0",
+                "formattedSpread": "Northern Illinois -9.0",
+                "spreadOpen": "-9.5",
+                "overUnder": "45.0",
+                "overUnderOpen": "49.0",
+                "homeMoneyline": -360,
+                "awayMoneyline": 280
+            }
+        ]
+    },
+    {
+        "id": 401309571,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Buffalo",
+        "homeConference": "Mid-American",
+        "homeScore": null,
+        "awayTeam": "Ohio",
+        "awayConference": "Mid-American",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "-9.0",
+                "formattedSpread": "Buffalo -9.0",
+                "spreadOpen": "-10.5",
+                "overUnder": "56.5",
+                "overUnderOpen": "55.0",
+                "homeMoneyline": -380,
+                "awayMoneyline": 290
+            }
+        ]
+    },
+    {
+        "id": 401309572,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Western Michigan",
+        "homeConference": "Mid-American",
+        "homeScore": null,
+        "awayTeam": "Kent State",
+        "awayConference": "Mid-American",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "-7.0",
+                "formattedSpread": "Western Michigan -7.0",
+                "spreadOpen": "-7.0",
+                "overUnder": "66.5",
+                "overUnderOpen": "63.0",
+                "homeMoneyline": -260,
+                "awayMoneyline": 215
+            }
+        ]
+    },
+    {
+        "id": 401309873,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Washington State",
+        "homeConference": "Pac-12",
+        "homeScore": null,
+        "awayTeam": "Stanford",
+        "awayConference": "Pac-12",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "1.5",
+                "formattedSpread": "Stanford -1.5",
+                "spreadOpen": "2.5",
+                "overUnder": "52.5",
+                "overUnderOpen": "50.5",
+                "homeMoneyline": 110,
+                "awayMoneyline": -130
+            }
+        ]
+    },
+    {
+        "id": 401309874,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Washington",
+        "homeConference": "Pac-12",
+        "homeScore": null,
+        "awayTeam": "UCLA",
+        "awayConference": "Pac-12",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "-1.5",
+                "formattedSpread": "Washington -1.5",
+                "spreadOpen": "-1.0",
+                "overUnder": "54.5",
+                "overUnderOpen": "55.0",
+                "homeMoneyline": -125,
+                "awayMoneyline": 105
+            }
+        ]
+    },
+    {
+        "id": 401309875,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Colorado",
+        "homeConference": "Pac-12",
+        "homeScore": null,
+        "awayTeam": "Arizona",
+        "awayConference": "Pac-12",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "-6.0",
+                "formattedSpread": "Colorado -6.0",
+                "spreadOpen": "-6.0",
+                "overUnder": "46.5",
+                "overUnderOpen": "43.5",
+                "homeMoneyline": -260,
+                "awayMoneyline": 215
+            }
+        ]
+    },
+    {
+        "id": 401309876,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Utah",
+        "homeConference": "Pac-12",
+        "homeScore": null,
+        "awayTeam": "Arizona State",
+        "awayConference": "Pac-12",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "0.0",
+                "formattedSpread": "Arizona State -0.0",
+                "spreadOpen": "1.0",
+                "overUnder": "50.5",
+                "overUnderOpen": "51.0",
+                "homeMoneyline": -105,
+                "awayMoneyline": -115
+            }
+        ]
+    },
+    {
+        "id": 401310718,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Boise State",
+        "homeConference": "Mountain West",
+        "homeScore": null,
+        "awayTeam": "Air Force",
+        "awayConference": "Mountain West",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "-4.0",
+                "formattedSpread": "Boise State -4.0",
+                "spreadOpen": "-6.0",
+                "overUnder": "51.0",
+                "overUnderOpen": "50.5",
+                "homeMoneyline": -200,
+                "awayMoneyline": 170
+            }
+        ]
+    },
+    {
+        "id": 401310719,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "New Mexico",
+        "homeConference": "Mountain West",
+        "homeScore": null,
+        "awayTeam": "Colorado State",
+        "awayConference": "Mountain West",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "11.0",
+                "formattedSpread": "Colorado State -11.0",
+                "spreadOpen": "9.5",
+                "overUnder": "45.5",
+                "overUnderOpen": "44.0",
+                "homeMoneyline": 310,
+                "awayMoneyline": -415
+            }
+        ]
+    },
+    {
+        "id": 401310720,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "UNLV",
+        "homeConference": "Mountain West",
+        "homeScore": null,
+        "awayTeam": "Utah State",
+        "awayConference": "Mountain West",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "7.0",
+                "formattedSpread": "Utah State -7.0",
+                "spreadOpen": "7.5",
+                "overUnder": "62.5",
+                "overUnderOpen": "57.5",
+                "homeMoneyline": 250,
+                "awayMoneyline": -300
+            }
+        ]
+    },
+    {
+        "id": 401310721,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Wyoming",
+        "homeConference": "Mountain West",
+        "homeScore": null,
+        "awayTeam": "Fresno State",
+        "awayConference": "Mountain West",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "3.5",
+                "formattedSpread": "Fresno State -3.5",
+                "spreadOpen": "3.5",
+                "overUnder": "54.0",
+                "overUnderOpen": "56.0",
+                "homeMoneyline": 145,
+                "awayMoneyline": -170
+            }
+        ]
+    },
+    {
+        "id": 401310722,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Nevada",
+        "homeConference": "Mountain West",
+        "homeScore": null,
+        "awayTeam": "Hawai'i",
+        "awayConference": "Mountain West",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "-14.0",
+                "formattedSpread": "Nevada -14.0",
+                "spreadOpen": "-16.0",
+                "overUnder": "61.0",
+                "overUnderOpen": "59.5",
+                "homeMoneyline": -625,
+                "awayMoneyline": 430
+            }
+        ]
+    },
+    {
+        "id": 401310723,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "San José State",
+        "homeConference": "Mountain West",
+        "homeScore": null,
+        "awayTeam": "San Diego State",
+        "awayConference": "Mountain West",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "9.5",
+                "formattedSpread": "San Diego State -9.5",
+                "spreadOpen": "8.0",
+                "overUnder": "41.0",
+                "overUnderOpen": "43.0",
+                "homeMoneyline": 280,
+                "awayMoneyline": -360
+            }
+        ]
+    },
+    {
+        "id": 401309872,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Oregon",
+        "homeConference": "Pac-12",
+        "homeScore": null,
+        "awayTeam": "California",
+        "awayConference": "Pac-12",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "-13.5",
+                "formattedSpread": "Oregon -13.5",
+                "spreadOpen": "-15.0",
+                "overUnder": "53.5",
+                "overUnderOpen": "55.5",
+                "homeMoneyline": -625,
+                "awayMoneyline": 430
+            }
+        ]
+    },
+    {
+        "id": 401282104,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Arkansas",
+        "homeConference": "SEC",
+        "homeScore": null,
+        "awayTeam": "Auburn",
+        "awayConference": "SEC",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "-4.5",
+                "formattedSpread": "Arkansas -4.5",
+                "spreadOpen": "-3.5",
+                "overUnder": "54.0",
+                "overUnderOpen": "53.0",
+                "homeMoneyline": -180,
+                "awayMoneyline": 155
+            }
+        ]
+    },
+    {
+        "id": 401282105,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Georgia",
+        "homeConference": "SEC",
+        "homeScore": null,
+        "awayTeam": "Kentucky",
+        "awayConference": "SEC",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "-22.0",
+                "formattedSpread": "Georgia -22.0",
+                "spreadOpen": "-23.5",
+                "overUnder": "44.5",
+                "overUnderOpen": "44.5",
+                "homeMoneyline": -2000,
+                "awayMoneyline": 950
+            }
+        ]
+    },
+    {
+        "id": 401282106,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "LSU",
+        "homeConference": "SEC",
+        "homeScore": null,
+        "awayTeam": "Florida",
+        "awayConference": "SEC",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "11.5",
+                "formattedSpread": "Florida -11.5",
+                "spreadOpen": "10.0",
+                "overUnder": "59.5",
+                "overUnderOpen": "58.0",
+                "homeMoneyline": 325,
+                "awayMoneyline": -435
+            }
+        ]
+    },
+    {
+        "id": 401282107,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Mississippi State",
+        "homeConference": "SEC",
+        "homeScore": null,
+        "awayTeam": "Alabama",
+        "awayConference": "SEC",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "17.5",
+                "formattedSpread": "Alabama -17.5",
+                "spreadOpen": "17.0",
+                "overUnder": "57.5",
+                "overUnderOpen": "59.0",
+                "homeMoneyline": 700,
+                "awayMoneyline": -1200
+            }
+        ]
+    },
+    {
+        "id": 401282108,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Missouri",
+        "homeConference": "SEC",
+        "homeScore": null,
+        "awayTeam": "Texas A&M",
+        "awayConference": "SEC",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "9.0",
+                "formattedSpread": "Texas A&M -9.0",
+                "spreadOpen": "9.0",
+                "overUnder": "59.5",
+                "overUnderOpen": "61.0",
+                "homeMoneyline": 270,
+                "awayMoneyline": -340
+            }
+        ]
+    },
+    {
+        "id": 401282109,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "South Carolina",
+        "homeConference": "SEC",
+        "homeScore": null,
+        "awayTeam": "Vanderbilt",
+        "awayConference": "SEC",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "-18.5",
+                "formattedSpread": "South Carolina -18.5",
+                "spreadOpen": "-20.0",
+                "overUnder": "50.5",
+                "overUnderOpen": "51.0",
+                "homeMoneyline": -1200,
+                "awayMoneyline": 700
+            }
+        ]
+    },
+    {
+        "id": 401282110,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Tennessee",
+        "homeConference": "SEC",
+        "homeScore": null,
+        "awayTeam": "Ole Miss",
+        "awayConference": "SEC",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "2.5",
+                "formattedSpread": "Ole Miss -2.5",
+                "spreadOpen": "3.0",
+                "overUnder": "82.5",
+                "overUnderOpen": "78.0",
+                "homeMoneyline": 125,
+                "awayMoneyline": -145
+            }
+        ]
+    },
+    {
+        "id": 401282230,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "UTEP",
+        "homeConference": "Conference USA",
+        "homeScore": null,
+        "awayTeam": "Louisiana Tech",
+        "awayConference": "Conference USA",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "6.5",
+                "formattedSpread": "Louisiana Tech -6.5",
+                "spreadOpen": "9.0",
+                "overUnder": "56.5",
+                "overUnderOpen": "55.0",
+                "homeMoneyline": 220,
+                "awayMoneyline": -270
+            }
+        ]
+    },
+    {
+        "id": 401282231,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "North Texas",
+        "homeConference": "Conference USA",
+        "homeScore": null,
+        "awayTeam": "Marshall",
+        "awayConference": "Conference USA",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "11.0",
+                "formattedSpread": "Marshall -11.0",
+                "spreadOpen": "10.5",
+                "overUnder": "66.5",
+                "overUnderOpen": "64.5",
+                "homeMoneyline": 315,
+                "awayMoneyline": -420
+            }
+        ]
+    },
+    {
+        "id": 401282232,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Old Dominion",
+        "homeConference": "Conference USA",
+        "homeScore": null,
+        "awayTeam": "Western Kentucky",
+        "awayConference": "Conference USA",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "12.5",
+                "formattedSpread": "Western Kentucky -12.5",
+                "spreadOpen": "13.0",
+                "overUnder": "66.5",
+                "overUnderOpen": "68.5",
+                "homeMoneyline": 360,
+                "awayMoneyline": -500
+            }
+        ]
+    },
+    {
+        "id": 401282233,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "UT San Antonio",
+        "homeConference": "Conference USA",
+        "homeScore": null,
+        "awayTeam": "Rice",
+        "awayConference": "Conference USA",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "-18.5",
+                "formattedSpread": "UT San Antonio -18.5",
+                "spreadOpen": "-18.5",
+                "overUnder": "54.0",
+                "overUnderOpen": "53.5",
+                "homeMoneyline": -1100,
+                "awayMoneyline": 650
+            }
+        ]
+    },
+    {
+        "id": 401282234,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Southern Mississippi",
+        "homeConference": "Conference USA",
+        "homeScore": null,
+        "awayTeam": "UAB",
+        "awayConference": "Conference USA",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "16.0",
+                "formattedSpread": "UAB -16.0",
+                "spreadOpen": "16.0",
+                "overUnder": "43.5",
+                "overUnderOpen": "43.5",
+                "homeMoneyline": 500,
+                "awayMoneyline": -750
+            }
+        ]
+    },
+    {
+        "id": 401282658,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Boston College",
+        "homeConference": "ACC",
+        "homeScore": null,
+        "awayTeam": "NC State",
+        "awayConference": "ACC",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "3.0",
+                "formattedSpread": "NC State -3.0",
+                "spreadOpen": "2.0",
+                "overUnder": "52.0",
+                "overUnderOpen": "51.5",
+                "homeMoneyline": 135,
+                "awayMoneyline": -160
+            }
+        ]
+    },
+    {
+        "id": 401282659,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "North Carolina",
+        "homeConference": "ACC",
+        "homeScore": null,
+        "awayTeam": "Miami",
+        "awayConference": "ACC",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "-7.5",
+                "formattedSpread": "North Carolina -7.5",
+                "spreadOpen": "-6.0",
+                "overUnder": "63.5",
+                "overUnderOpen": "61.5",
+                "homeMoneyline": -280,
+                "awayMoneyline": 230
+            }
+        ]
+    },
+    {
+        "id": 401282660,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Virginia",
+        "homeConference": "ACC",
+        "homeScore": null,
+        "awayTeam": "Duke",
+        "awayConference": "ACC",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "-10.5",
+                "formattedSpread": "Virginia -10.5",
+                "spreadOpen": "-11.5",
+                "overUnder": "69.5",
+                "overUnderOpen": "69.0",
+                "homeMoneyline": -455,
+                "awayMoneyline": 335
+            }
+        ]
+    },
+    {
+        "id": 401282661,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Virginia Tech",
+        "homeConference": "ACC",
+        "homeScore": null,
+        "awayTeam": "Pittsburgh",
+        "awayConference": "ACC",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "5.0",
+                "formattedSpread": "Pittsburgh -5.0",
+                "spreadOpen": "4.5",
+                "overUnder": "58.0",
+                "overUnderOpen": "57.0",
+                "homeMoneyline": 170,
+                "awayMoneyline": -200
+            }
+        ]
+    },
+    {
+        "id": 401282731,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Indiana",
+        "homeConference": "Big Ten",
+        "homeScore": null,
+        "awayTeam": "Michigan State",
+        "awayConference": "Big Ten",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "5.0",
+                "formattedSpread": "Michigan State -5.0",
+                "spreadOpen": "3.5",
+                "overUnder": "48.0",
+                "overUnderOpen": "52.0",
+                "homeMoneyline": 170,
+                "awayMoneyline": -200
+            }
+        ]
+    },
+    {
+        "id": 401282760,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Iowa",
+        "homeConference": "Big Ten",
+        "homeScore": null,
+        "awayTeam": "Purdue",
+        "awayConference": "Big Ten",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "-12.0",
+                "formattedSpread": "Iowa -12.0",
+                "spreadOpen": "-12.5",
+                "overUnder": "42.5",
+                "overUnderOpen": "43.0",
+                "homeMoneyline": -500,
+                "awayMoneyline": 360
+            }
+        ]
+    },
+    {
+        "id": 401282796,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Minnesota",
+        "homeConference": "Big Ten",
+        "homeScore": null,
+        "awayTeam": "Nebraska",
+        "awayConference": "Big Ten",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "4.0",
+                "formattedSpread": "Nebraska -4.0",
+                "spreadOpen": "2.5",
+                "overUnder": "48.0",
+                "overUnderOpen": "47.5",
+                "homeMoneyline": 150,
+                "awayMoneyline": -175
+            }
+        ]
+    },
+    {
+        "id": 401282807,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Northwestern",
+        "homeConference": "Big Ten",
+        "homeScore": null,
+        "awayTeam": "Rutgers",
+        "awayConference": "Big Ten",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "2.0",
+                "formattedSpread": "Rutgers -2.0",
+                "spreadOpen": "0.0",
+                "overUnder": "44.5",
+                "overUnderOpen": "47.0",
+                "homeMoneyline": 110,
+                "awayMoneyline": -130
+            }
+        ]
+    },
+    {
+        "id": 401301022,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Memphis",
+        "homeConference": "American Athletic",
+        "homeScore": null,
+        "awayTeam": "Navy",
+        "awayConference": "American Athletic",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "-11.0",
+                "formattedSpread": "Memphis -11.0",
+                "spreadOpen": "-8.5",
+                "overUnder": "56.0",
+                "overUnderOpen": "52.5",
+                "homeMoneyline": -395,
+                "awayMoneyline": 300
+            }
+        ]
+    },
+    {
+        "id": 401309621,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "South Alabama",
+        "homeConference": "Sun Belt",
+        "homeScore": null,
+        "awayTeam": "Georgia Southern",
+        "awayConference": "Sun Belt",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "-3.0",
+                "formattedSpread": "South Alabama -3.0",
+                "spreadOpen": "-3.5",
+                "overUnder": "49.5",
+                "overUnderOpen": "50.0",
+                "homeMoneyline": -160,
+                "awayMoneyline": 135
+            }
+        ]
+    },
+    {
+        "id": 401282657,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Syracuse",
+        "homeConference": "ACC",
+        "homeScore": null,
+        "awayTeam": "Clemson",
+        "awayConference": "ACC",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "13.5",
+                "formattedSpread": "Clemson -13.5",
+                "spreadOpen": "14.0",
+                "overUnder": "45.0",
+                "overUnderOpen": "45.5",
+                "homeMoneyline": 435,
+                "awayMoneyline": -635
+            }
+        ]
+    },
+    {
+        "id": 401282826,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Wisconsin",
+        "homeConference": "Big Ten",
+        "homeScore": null,
+        "awayTeam": "Army",
+        "awayConference": "FBS Independents",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "-14.0",
+                "formattedSpread": "Wisconsin -14.0",
+                "spreadOpen": "-11.5",
+                "overUnder": "39.0",
+                "overUnderOpen": "42.5",
+                "homeMoneyline": -605,
+                "awayMoneyline": 420
+            }
+        ]
+    },
+    {
+        "id": 401286192,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Connecticut",
+        "homeConference": "American Athletic",
+        "homeScore": null,
+        "awayTeam": "Yale",
+        "awayConference": null,
+        "awayScore": null,
+        "lines": []
+    },
+    {
+        "id": 401286296,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Louisiana Monroe",
+        "homeConference": "Sun Belt",
+        "homeScore": null,
+        "awayTeam": "Liberty",
+        "awayConference": "FBS Independents",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "33.0",
+                "formattedSpread": "Liberty -33.0",
+                "spreadOpen": "32.0",
+                "overUnder": "56.5",
+                "overUnderOpen": "54.5",
+                "homeMoneyline": null,
+                "awayMoneyline": null
+            }
+        ]
+    },
+    {
+        "id": 401287920,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Baylor",
+        "homeConference": "Big 12",
+        "homeScore": null,
+        "awayTeam": "BYU",
+        "awayConference": "FBS Independents",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "-6.5",
+                "formattedSpread": "Baylor -6.5",
+                "spreadOpen": "-5.0",
+                "overUnder": "51.0",
+                "overUnderOpen": "48.0",
+                "homeMoneyline": -245,
+                "awayMoneyline": 205
+            }
+        ]
+    },
+    {
+        "id": 401287921,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Kansas",
+        "homeConference": "Big 12",
+        "homeScore": null,
+        "awayTeam": "Texas Tech",
+        "awayConference": "Big 12",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "17.0",
+                "formattedSpread": "Texas Tech -17.0",
+                "spreadOpen": "15.5",
+                "overUnder": "68.0",
+                "overUnderOpen": "67.0",
+                "homeMoneyline": 550,
+                "awayMoneyline": -850
+            }
+        ]
+    },
+    {
+        "id": 401287922,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Kansas State",
+        "homeConference": "Big 12",
+        "homeScore": null,
+        "awayTeam": "Iowa State",
+        "awayConference": "Big 12",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "6.5",
+                "formattedSpread": "Iowa State -6.5",
+                "spreadOpen": "4.5",
+                "overUnder": "50.5",
+                "overUnderOpen": "51.5",
+                "homeMoneyline": 215,
+                "awayMoneyline": -260
+            }
+        ]
+    },
+    {
+        "id": 401287923,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Oklahoma",
+        "homeConference": "Big 12",
+        "homeScore": null,
+        "awayTeam": "TCU",
+        "awayConference": "Big 12",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "-13.5",
+                "formattedSpread": "Oklahoma -13.5",
+                "spreadOpen": "-12.0",
+                "overUnder": "65.0",
+                "overUnderOpen": "65.5",
+                "homeMoneyline": -545,
+                "awayMoneyline": 390
+            }
+        ]
+    },
+    {
+        "id": 401287924,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Texas",
+        "homeConference": "Big 12",
+        "homeScore": null,
+        "awayTeam": "Oklahoma State",
+        "awayConference": "Big 12",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "-5.0",
+                "formattedSpread": "Texas -5.0",
+                "spreadOpen": "-5.0",
+                "overUnder": "60.0",
+                "overUnderOpen": "60.5",
+                "homeMoneyline": -220,
+                "awayMoneyline": 180
+            }
+        ]
+    },
+    {
+        "id": 401301023,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Cincinnati",
+        "homeConference": "American Athletic",
+        "homeScore": null,
+        "awayTeam": "UCF",
+        "awayConference": "American Athletic",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "-21.0",
+                "formattedSpread": "Cincinnati -21.0",
+                "spreadOpen": "-20.0",
+                "overUnder": "57.5",
+                "overUnderOpen": "56.0",
+                "homeMoneyline": -1500,
+                "awayMoneyline": 775
+            }
+        ]
+    },
+    {
+        "id": 401301024,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "South Florida",
+        "homeConference": "American Athletic",
+        "homeScore": null,
+        "awayTeam": "Tulsa",
+        "awayConference": "American Athletic",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "8.5",
+                "formattedSpread": "Tulsa -8.5",
+                "spreadOpen": "8.5",
+                "overUnder": "57.0",
+                "overUnderOpen": "57.0",
+                "homeMoneyline": 270,
+                "awayMoneyline": -340
+            }
+        ]
+    },
+    {
+        "id": 401308837,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Miami (OH)",
+        "homeConference": "Mid-American",
+        "homeScore": null,
+        "awayTeam": "Akron",
+        "awayConference": "Mid-American",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "-19.5",
+                "formattedSpread": "Miami (OH) -19.5",
+                "spreadOpen": "-20.0",
+                "overUnder": "50.5",
+                "overUnderOpen": "52.5",
+                "homeMoneyline": -1200,
+                "awayMoneyline": 700
+            }
+        ]
+    },
+    {
+        "id": 401309568,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Eastern Michigan",
+        "homeConference": "Mid-American",
+        "homeScore": null,
+        "awayTeam": "Ball State",
+        "awayConference": "Mid-American",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "1.5",
+                "formattedSpread": "Ball State -1.5",
+                "spreadOpen": "2.5",
+                "overUnder": "55.5",
+                "overUnderOpen": "54.5",
+                "homeMoneyline": 105,
+                "awayMoneyline": -125
+            }
+        ]
+    },
+    {
+        "id": 401309620,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Louisiana",
+        "homeConference": "Sun Belt",
+        "homeScore": 41,
+        "awayTeam": "Appalachian State",
+        "awayConference": "Sun Belt",
+        "awayScore": 13,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "4.5",
+                "formattedSpread": "Appalachian State -4.5",
+                "spreadOpen": "3.5",
+                "overUnder": "58.0",
+                "overUnderOpen": "54.5",
+                "homeMoneyline": 170,
+                "awayMoneyline": -200
+            },
+            {
+                "provider": "William Hill (New Jersey)",
+                "spread": "4",
+                "formattedSpread": "Appalachian State -4",
+                "spreadOpen": null,
+                "overUnder": "57.5",
+                "overUnderOpen": null,
+                "homeMoneyline": null,
+                "awayMoneyline": null
+            },
+            {
+                "provider": "consensus",
+                "spread": "4",
+                "formattedSpread": "Appalachian State -4",
+                "spreadOpen": null,
+                "overUnder": "57.5",
+                "overUnderOpen": null,
+                "homeMoneyline": null,
+                "awayMoneyline": null
+            },
+            {
+                "provider": "teamrankings",
+                "spread": "4.5",
+                "formattedSpread": "Appalachian State -4.5",
+                "spreadOpen": null,
+                "overUnder": "57.5",
+                "overUnderOpen": null,
+                "homeMoneyline": null,
+                "awayMoneyline": null
+            }
+        ]
+    },
+    {
+        "id": 401309622,
+        "season": 2021,
+        "week": 7,
+        "seasonType": "regular",
+        "homeTeam": "Texas State",
+        "homeConference": "Sun Belt",
+        "homeScore": null,
+        "awayTeam": "Troy",
+        "awayConference": "Sun Belt",
+        "awayScore": null,
+        "lines": [
+            {
+                "provider": "Bovada",
+                "spread": "7.5",
+                "formattedSpread": "Troy -7.5",
+                "spreadOpen": "6.0",
+                "overUnder": "48.0",
+                "overUnderOpen": "49.5",
+                "homeMoneyline": 240,
+                "awayMoneyline": -290
+            }
+        ]
+    }
+]
