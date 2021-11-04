@@ -1,12 +1,14 @@
 let keeperPredictions = require("./predictions/keeperPredictions.json");
 let dpdRankings = require("./predictions/dpdRankings.json");
 let linesJSON = require("./lines/linesWeek8.json");
-
+var fs = require('fs');
 linesJSON.forEach((line) => processLine(line));
 
 function processLine(item) {
-	item["lines"]["dpdSpread"] = calculateDPDSpread(item["homeTeam"], item["awayTeam"]);
-	item["lines"]["keeperSpread"] = calculateKeeperSpread(item["homeTeam"]);
+	item["dpdSpread"] = calculateDPDSpread(item["homeTeam"], item["awayTeam"]);
+	item["keeperSpread"] = calculateKeeperSpread(item["homeTeam"]);
+
+	compareLine(item);
 }
 
 function calculateDPDSpread(hometeam, awayteam) {
@@ -41,13 +43,39 @@ function calculateKeeperSpread(hometeam) {
     let formattedUnderdog = !isEmpty(matchup.Underdog) ? matchup.Underdog.replace(/[\s@_]/g,'') : "No Underdog";
 		return formattedFavorite === formattedHomeTeam || formattedUnderdog === formattedHomeTeam;
 	});
-	console.log(hometeam);
-	console.log(gameLine[0].spread);
-	console.log(gameline[0])
+	let formattedKeeperSpread = "";
+	if (gameLine[0] != undefined) { 
+		formattedKeeperSpread = hometeam + " -" + gameLine[0].spread;
+	}
+	//console.log(gameLine[0].spread);
+	//console.log(gameline[0])
+	return formattedKeeperSpread;
 }
+
+//comparelines
+function compareLine(line) { 
+	let dpdSpread = line["dpdSpread"];
+	let keeperSpread = line["keeperSpread"];
+	let vegasSpread = "";
+	//console.log(line);
+	if (line.lines[0] != undefined) { 
+		vegasSpread = line.lines[0].spread;
+		//console.log(predictedSpread);
+	}
+	console.log(`predicted spread is ${predictedSpread}`)
+
+}
+
+//console.log(compareLines(linesJSON));
 
 //yeah so what?
 function isEmpty(str) {
   return (!str || str.length === 0 || str === undefined) ;
 }
-//console.log(linesJSON);
+// var jsonToWriteToFile = JSON.stringify(linesJSON);
+
+
+// fs.writeFile('myjsonfile.json', jsonToWriteToFile, 'utf8', function(err) {
+//     if (err) throw err;
+//     console.log('complete');
+//     });
