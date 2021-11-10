@@ -3,7 +3,7 @@ import csv
 import pandas as pd
 import sys
 
-csvUrlWeek7 = "https://docs.google.com/spreadsheets/u/1/d/1dHc0i6CSE8WLt0gszO49nsPGfaluquV3aUd1SE0L8Bw/export?format=csv&id=1dHc0i6CSE8WLt0gszO49nsPGfaluquV3aUd1SE0L8Bw&gid=1120809762"
+csvUrlWeek10 = "https://docs.google.com/spreadsheets/u/1/d/1ASjhocYU2ElqS3ZwbWXZtaRp0M7GRi_AX3Jiq3hkC_w/export?format=csv&id=1ASjhocYU2ElqS3ZwbWXZtaRp0M7GRi_AX3Jiq3hkC_w&gid=1587350818"
 
 csv_url= sys.argv[1]
 res=rs.get(url=csv_url)

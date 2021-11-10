@@ -57,13 +57,28 @@ function compareLine(line) {
 	let dpdSpread = line["dpdSpread"];
 	let keeperSpread = line["keeperSpread"];
 	let vegasSpread = "";
+	if (dpdSpread == undefined) { 
+		return;
+	}
 	//console.log(line);
 	if (line.lines[0] != undefined) { 
-		vegasSpread = line.lines[0].spread;
+		vegasSpread = line.lines[0].formattedSpread;
 		//console.log(predictedSpread);
 	}
-	console.log(`predicted spread is ${predictedSpread}`)
-
+	
+	var vegasSpreadNumber = parseInt(vegasSpread.split('-')[1]);
+	var keeperSpreadNumber = parseInt(keeperSpread.split('-')[1]);
+	var dpdSpreadNumber = parseInt(dpdSpread.split('-')[1]);
+	//console.log((keeperSpreadNumber - vegasSpreadNumber));
+	//console.log(`vegas spread is ${vegasSpreadNumber} keeperSpread is ${keeperSpreadNumber} dpdSpreadNumber is ${dpdSpreadNumber}`);
+	//TODO: make sure both models agree on teams lol. then ding ding ding. right now variant spreads can give misleading results
+	if (Math.abs(keeperSpreadNumber - vegasSpreadNumber) > 10 && Math.abs(dpdSpreadNumber - vegasSpreadNumber)) {
+		console.log("ding ding ding!");
+		console.log(line.homeTeam);
+		console.log(line.lines[0]);
+		console.log(line["dpdSpread"]);
+		console.log(line["keeperSpread"]);
+	}
 }
 
 //console.log(compareLines(linesJSON));
