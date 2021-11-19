@@ -1,6 +1,6 @@
 let keeperPredictions = require("./predictions/keeperPredictions.json");
 let dpdRankings = require("./predictions/dpdRankings.json");
-let linesJSON = require("./lines/linesWeek8.json");
+let linesJSON = require("./lines/linesWeek11.json");
 var fs = require('fs');
 linesJSON.forEach((line) => processLine(line));
 
@@ -66,16 +66,16 @@ function compareLine(line) {
 		//console.log(predictedSpread);
 	}
 	
-	var vegasSpreadNumber = parseInt(vegasSpread.split('-')[1]);
-	var keeperSpreadNumber = parseInt(keeperSpread.split('-')[1]);
-	var dpdSpreadNumber = parseInt(dpdSpread.split('-')[1]);
+	var vegasSpreadNumber = vegasSpread.split('-')[1];
+	var [keeperFavorite, keeperSpreadNumber] = keeperSpread.split('-');
+	var [dpdFavorite, dpdSpreadNumber] = dpdSpread.split('-');
+
 	//console.log((keeperSpreadNumber - vegasSpreadNumber));
 	//console.log(`vegas spread is ${vegasSpreadNumber} keeperSpread is ${keeperSpreadNumber} dpdSpreadNumber is ${dpdSpreadNumber}`);
 	//TODO: make sure both models agree on teams lol. then ding ding ding. right now variant spreads can give misleading results
-	if (Math.abs(keeperSpreadNumber - vegasSpreadNumber) > 10 && Math.abs(dpdSpreadNumber - vegasSpreadNumber)) {
+	if (Math.abs(keeperSpreadNumber - vegasSpreadNumber) > 5 && Math.abs(dpdSpreadNumber - vegasSpreadNumber) > 5 && keeperFavorite === dpdFavorite) {
 		console.log("ding ding ding!");
-		console.log(line.homeTeam);
-		console.log(line.lines[0]);
+		//this is wrong!
 		console.log(line["dpdSpread"]);
 		console.log(line["keeperSpread"]);
 	}
